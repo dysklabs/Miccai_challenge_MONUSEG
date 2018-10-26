@@ -1,4 +1,4 @@
-## 7th place on Miccai - Multi Organ Nuclei Segementation
+## 7th place on MICCAI - Multi Organ Nuclei Segementation
 Chanllenge results: https://monuseg.grand-challenge.org/Results/
 
 Slides: https://docs.google.com/presentation/d/1jS9YEs_KVBamoYdEZ0oSGUbIBQmr2htOz12dQLdf4Sk/edit?usp=sharing
