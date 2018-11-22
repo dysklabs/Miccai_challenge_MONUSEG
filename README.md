@@ -1,5 +1,11 @@
 ## Nucleus Segmentation 
 
+Please install following package
+```
+pip install imgaug numba numexpr
+```
+
+
 First, setup your model hyper-parameter config in the **monuconfig.py**. We support backone: resnet50/101, densenet121/169 and inception-resnetv2, please set the model in BACKBONE.
 
 ```python
